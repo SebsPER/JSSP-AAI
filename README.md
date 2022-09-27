@@ -5,4 +5,8 @@ Resultados: Comparacion del mejor makespan conseguido por Random Sampling vs Alg
 
 - Instancia ab7
 
-![alt text](https://raw.githubusercontent.com/SebsPER/JSSP-AAI/main/rand_gen.jpg)
+![alt text](https://raw.githubusercontent.com/SebsPER/JSSP-AAI/main/abz7.jpg)
+
+- Instancia yn4
+
+![alt text](https://raw.githubusercontent.com/SebsPER/JSSP-AAI/main/yn4.jpg)
